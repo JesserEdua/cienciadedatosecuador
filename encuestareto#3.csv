@@ -1,0 +1,13 @@
+ID,¿Con qué género te identificas?,¿Has hecho alguna vez compras de forma impulsiva?,¿Cuando compras un producto consideras todos los gastos secundarios que podrían generarse?,¿Cuál es tu canal favorito para realizar compras?,¿Qué es lo más importante que consideras para realizar una compra?,¿Un producto defectuoso debe ser?,¿Escoge tu categoría favorita de consumo?,¿Cuánto es el monto máximo que estarías dispuesto a pagar por tu categoría favorita?
+1,Masculino,Si,Si,Redes Sociales,Calidad,Reemplazado,Electrodomesticos,200
+2,Femenino,No,No,Tienda Fisica,Precio,Reemplazado,Joyeria,300
+3,Masculino,No,Si,Pagina Web,Presentacion,Reemplazado,Comida,50
+4,Femenino,Si,No,Redes Sociales,Calidad,Reparado,Tecnologia,800
+5,Femenino,Si,Si,Pagina Web,Precio,Reemplazado,Comida,70
+6,Masculino,Si,No,Tienda Fisica,Calidad,Reemplazado,Vestimenta,100
+7,Masculino,No,Si,Tienda Fisica,Precio,Reparado,Vestimenta,120
+8,Femenino,No,Si,Redes Sociales,Presentacion,Reparado,Vestimenta,90
+9,Masculino,Si,No,Redes Sociales,Calidad,Reparado,Tecnologia,500
+10,Femenino,No,No,Tienda Fisica,Precio,Reemplazado,Vestimenta,80
+11,Masculino,Si,Si,Pagina Web,Calidad,Reparado,Electrodomesticos,250
+12,Femenino,No,No,Tienda Fisica,Presentacion,Reemplazado,Comida,30
