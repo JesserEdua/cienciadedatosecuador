@@ -1,0 +1,13 @@
+ID,¿Con qué género te identificas?,¿Has hecho alguna vez compras de forma impulsiva?,¿Cuando compras un producto consideras todos los gastos secundarios que podrían generarse?,¿Cuál es tu canal favorito para realizar compras?,¿Qué es lo más importante que consideras para realizar una compra?,¿Un producto defectuoso debe ser?,¿Escribe cuál es tu producto o servicio preferido?
+1,Masculino,Si,Si,Redes Sociales,Calidad,Reemplazado,Zapatos
+2,Femenino,No,No,Tienda Fisica,Precio,Reemplazado,Ropa
+3,Otro,Si,Si,Pagina Web,Presentacion,Reemplazado,Electrodomesticos
+4,Masculino,No,No,Redes Sociales,Precio,Reemplazado,Electronica
+5,Femenino,Si,No,Tienda Fisica,Calidad,Reparado,Zapatos
+6,Otro,No,Si,Pagina Web,Calidad,Reemplazado,Ropa
+7,Masculino,Si,Si,Tienda Fisica,Presentacion,Reparado,Electronica
+8,Femenino,No,No,Redes Sociales,Precio,Reemplazado,Ropa
+9,Masculino,Si,Si,Redes Sociales,Calidad,Reparado,Electronica
+10,Femenino,No,Si,Pagina Web,Presentacion,Reemplazado,Zapatos
+11,Otro,Si,No,Tienda Fisica,Precio,Reemplazado,Electrodomesticos
+12,Masculino,No,Si,Tienda Fisica,Presentacion,Reparado,Zapatos
